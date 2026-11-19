@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, central :)
+I'm new to coding, please have patience.
+I am starting to learn Python.
 
 <!--
 **charmworm9/charmworm9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
